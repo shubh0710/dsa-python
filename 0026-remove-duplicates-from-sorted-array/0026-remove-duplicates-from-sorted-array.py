@@ -3,7 +3,7 @@ class Solution:
         k = 1
 
         for i in range(len(nums)):
-            if nums[i] == max(nums):
+            if nums[i] == nums[-1]:
                 break
             elif i + 1 <= len(nums) - 1 and not nums[i + 1] > nums[i]:
 
