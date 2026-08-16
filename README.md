@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubh0710/dsa-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shubh0710/dsa-python/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/shubh0710/dsa-python/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shubh0710/dsa-python/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shubh0710/dsa-python/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/shubh0710/dsa-python/tree/master/1470-shuffle-the-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shubh0710/dsa-python/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/shubh0710/dsa-python/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
