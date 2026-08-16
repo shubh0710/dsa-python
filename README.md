@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubh0710/dsa-python/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shubh0710/dsa-python/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shubh0710/dsa-python/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shubh0710/dsa-python/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/shubh0710/dsa-python/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shubh0710/dsa-python/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shubh0710/dsa-python/tree/master/1512-number-of-good-pairs) |
