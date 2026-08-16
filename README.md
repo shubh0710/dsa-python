@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shubh0710/dsa-python/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/shubh0710/dsa-python/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubh0710/dsa-python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shubh0710/dsa-python/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/shubh0710/dsa-python/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shubh0710/dsa-python/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shubh0710/dsa-python/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/shubh0710/dsa-python/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/shubh0710/dsa-python/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
